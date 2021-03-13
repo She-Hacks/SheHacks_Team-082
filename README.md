@@ -2,7 +2,7 @@
 INTRODUCTION: 
 We have developed a game “THE HUNGRY DOG”
 Sole purpose of this project is Entertainment. As We all know, People are getting busy in their life and they have no time to relax. So, our purpose is to entertain them. This game can be played by all age groups.
-This game is created using python only.
+This game is created by using python only.
 
 
 
